@@ -9,5 +9,6 @@ public class Books implements BookItem {
         	  System.out.print("\t Book Author: " +author); 
         	  System.out.print("\t Publication date : " + date); 
         	  System.out.print("\n\n");
+            //this is book items
           }
 }
